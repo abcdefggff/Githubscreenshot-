@@ -1,2 +1,3 @@
 # Githubscreenshot-
 Bot token
+{"tokens":"7661992634:AAGuA_zJD42pTPFkKlZiach7Vzaddw-QTd0"}
